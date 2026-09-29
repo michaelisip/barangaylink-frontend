@@ -1,0 +1,4 @@
+full_name,birthdate,gender,address,purok,phone,email,civil_status,income_class,is_voter,occupation
+Juan Dela Cruz,1988-03-15,Male,"12 Mabini St., Brgy. Sta. Catalina",Purok 2,+639171112222,juan.delacruz@example.com,Single,Lower Class,false,Driver
+Maria Clara Santos,1992-07-22,Female,"45 Rizal Ave.",Purok 1,+639181112333,maria.santos@example.com,Married,Middle Class,true,Vendor
+Pedro Penduko,1975-11-01,Male,"Blk 3 Lot 7 Subdivision",Purok 5,,,Widowed,Upper Class,no,Retired
